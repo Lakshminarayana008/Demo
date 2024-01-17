@@ -1,0 +1,7 @@
+Python Course
+python: 1
+course: 1
+Deep Learning Course
+deep: 1
+learning: 1
+course: 1
